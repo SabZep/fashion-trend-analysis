@@ -4,16 +4,13 @@
 
 ## Summary
 
-**Background:**  What better time is there than Autumn to romanticize the gloomy weather and find small things to enjoy? Latest reads for a rainy day inside, cozy wool trench coats and the infamous pumpkin spice lattes. It is indeed the time for comforting seasonal treats. Fashionwise, on the wild streets of Berlin, I have been observing more and more people wearing **cowboy boots**, tastefully styled with maxi dresses, midi skirts, wide leg jeans or denim shorts. 
+**Background:**  What better time is there than autumn to romanticize the gloomy weather and find small things to enjoy? Latest reads for a rainy day inside, cozy wool trench coats and the infamous pumpkin spice lattes. The time for comforting seasonal treats indeed. Fashionwise, on the wild streets of Berlin, I have been observing more and more people wearing **cowboy boots**, tastefully styled with maxi dresses, midi skirts, wide leg jeans or denim shorts. 
 
-This observation raises the question: are cowboy boots truly making a comeback this fall, or is this just a localized phenomenon? By conducting a comprehensive analysis, I aim to understand the scope of this trend and provide insights for the fashion industry.
+This observation raises the question: are cowboy boots truly making a comeback this fall, or is this just a localized phenomenon, and an ordinary seasonal trend? By conducting a comprehensive analysis, I aim to understand the scope of this trend and provide insights for the fashion industry.
 
-**Objectives:** Determine if cowboy boots are experiencing a significant resurgence in popularity during the 2024 fall season. Compare the current trend against historical seasonal data to assess its strength. Find out if there are specific geographic or demographic patterns. Evaluate if fashion retailers should adjust their inventory (e.g. offering more variety) and marketing strategies in order to increase sales.
+**Objectives:** Determine if cowboy boots are experiencing a significant increase in popularity during the 2024 fall season. Compare the current trend against historical seasonal data to assess its strength. Find out if there are specific geographic or demographic patterns. Evaluate if fashion retailers should adjust their inventory and marketing strategies in order to increase sales and meet a possible increase in demand.
 
-**Unique Challenge:** (not sure about keeping this part but it could be something that justifies my specific analysis)
-
-**Methodology:** Operationalize the search variable and make sure to cover all related terms such as Western boots, country boots etc. Gather data from (1) social media; pull data from Instagram, TikTok and Pinterest using hashtags and mentions, see if fashion shows and influencers are especially promoting this trend. (2) Use Google Trends for analyzing the search volume focusing on the past few years. (I am a little confused what analysis to add and test for significance here)
-
+**Methodology:** Gather data from Google Trends on search volume for cowboy boots and synonymous terms (e.g., 'Western boots,' 'country boots') over the past few years, with a particular focus on the fall period. Conduct exploratory data analysis with SQL queries and visualize the results using Tableau.
 
 
 <!-- This section is under development.
@@ -25,10 +22,12 @@ H_0 &: \text{Being a Plus member does not increase customer lifetime value.} \\
 H_1 &: \text{Being a Plus member increases customer lifetime value.}
 \end{align*}
 $$
+Null Hypothesis (H0): The search volume for cowboy boots during fall 2024 is not significantly different from previous years.
+Alternative Hypothesis (H1): The search volume for cowboy boots during fall 2024 is significantly higher than previous years.
 -->
 **Results:** 
 
-**Business Recommendations**: 
+**Business Recommendations:** Retailers should stock more cowboy boots to meet the anticipated increased demand. Targeted marketing on the website and newsletters, email campaigns and discounts for the 20-27 year old cohort in Berlin and Leipzig can be utilized to increase sales.
 
 ## Author and Contact
 **Author:** Zeynep Elif Sab <br>
